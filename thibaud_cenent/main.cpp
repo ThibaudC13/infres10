@@ -1,8 +1,8 @@
 #include <iostream>
 #include <thread>
 #include <vector>
-#include "classes/Account.h"
-#include "classes/Transaction.h"
+#include "Account.h"
+#include "Transaction.h"
 
 using namespace std;
 
